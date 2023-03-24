@@ -1,6 +1,6 @@
 # Loupedeck Open Source Plugins
 
-Welcome to Loupedeck Open Source Plugins! This organization is dedicated to providing high-quality, open-source plugins for the Loupedeck community. The plugins in this repository are available at the [Loupedeck Marketplace](https://www.loupedeck.com/en/marketplace).
+Welcome to Loupedeck Open Source Plugins! This organization is dedicated to providing high-quality, open-source plugins for the Loupedeck community. The plugins in this repository are available at the [Loupedeck Marketplace](https://marketplace.loupedeck.com/).
 
 ## Overview
 
